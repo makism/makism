@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 <!--
+_I've recently fell in love with mechanical keyboards._
+Also, addicted to MOOCS.
+-->
+
+<!--
 **makism/makism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Avraam "Makis" Marimpis is a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time he is pursuing his PhD degree in the Cognitive Neuroscience Department, in Maastricht University.
+Avraam "Makis" Marimpis is a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time he is pursuing his Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
 
 His interests and expertise include:<br/>
 ※ Brain Connectivity & Graph Theory<br/>
@@ -28,7 +33,6 @@ That's also him:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>
 💬 [Linkedin](https://www.linkedin.com/in/makism/)<br/>
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>
-🔭 [OrcID](https://orcid.org/0000-0003-1551-9940)
-
+🔭 [OrcID](https://orc
 
 

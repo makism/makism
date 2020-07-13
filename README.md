@@ -33,6 +33,6 @@ That's also him:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>
 💬 [Linkedin](https://www.linkedin.com/in/makism/)<br/>
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>
-🔭 [OrcID](https://orc
+🔭 [OrcID](orcid.org/0000-0003-1551-9940)
 
 

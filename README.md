@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Avraam "Makis" Marimpis is a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time he is pursuing his PhD degree in the Cognitive Neuroscience Department, in Maastricht University.
 
-His interests and expertise include
+His interests and expertise include:<br/>
 ※ Brain Connectivity & Graph Theory<br/>
 ※ Python<br/>
 ※ C++/Qt<br/>

@@ -2,7 +2,7 @@
 
 ```
 I've recently fell in love with mechanical keyboards; just bought Anne Pro 2 and the Granite keyset, desgned by matt3o.
-Also, addicted to MOOCS.
+Also, according to my wife, I'm addicted to MOOCS XD — but I just enjoy leaning!
 ```
 
 <!--

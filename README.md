@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋, it's me, Makis!
 
-<!--
-_I've recently fell in love with mechanical keyboards._
+```
+I've recently fell in love with mechanical keyboards; just bought Anne Pro 2 and the Granite keyset, desgned by matt3o.
 Also, addicted to MOOCS.
--->
+```
 
 <!--
 **makism/makism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,16 +20,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Avraam "Makis" Marimpis is a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time he is pursuing his Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
+I am a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
 
-His interests and expertise include:<br/>
-※ Brain Connectivity & Graph Theory<br/>
+<br/>
+
+My professional interests and expertise include:<br/>
+※ Brain Connectivity (functional) & Graph Theory (methods, algos)<br/>
 ※ Python<br/>
 ※ C++/Qt<br/>
 ※ Machine Learning<br/>
 ※ Real-Time Big Data<br/>
 
-That's also him:<br/>
+<br/>
+
+Oh, that's also me:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>
 💬 [Linkedin](https://www.linkedin.com/in/makism/)<br/>
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>

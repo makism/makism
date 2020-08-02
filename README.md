@@ -22,16 +22,12 @@ Here are some ideas to get you started:
 
 I am a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
 
-<br/>
-
 My professional interests and expertise include:<br/>
 ※ Brain Connectivity (functional) & Graph Theory (methods, algos)<br/>
 ※ Python<br/>
 ※ C++/Qt<br/>
 ※ Machine Learning<br/>
 ※ Real-Time Big Data<br/>
-
-<br/>
 
 Oh, that's also me:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>

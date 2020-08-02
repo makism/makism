@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I am a Software Engineer at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
 
-My professional interests and expertise include:<br/>
+Some of my interests and expertise include:<br/>
 ※ Brain Connectivity (functional) & Graph Theory (methods, algos)<br/>
 ※ Python<br/>
 ※ C++/Qt<br/>
@@ -35,4 +35,6 @@ Oh, that's also me:<br/>
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>
 🔭 [OrcID](orcid.org/0000-0003-1551-9940)
 
+
+😄
 

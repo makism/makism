@@ -2,7 +2,7 @@
 
 ```
 I've recently fell in love with mechanical keyboards.
-    ⇲ Just got an Anne Pro 2 and the Granite keyset, designed by matt3o.
+    ⇲ Anne Pro 2 and the Granite keyset, designed by matt3o.
 Also, according to my wife, I'm addicted to MOOCS — but I just enjoy leaning!
 ```
 

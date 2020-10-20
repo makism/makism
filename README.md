@@ -6,7 +6,7 @@ I've recently fell in love with mechanical keyboards.
 Also, according to my wife, I'm addicted to MOOCS — but I just enjoy leaning! 🤷‍♂️
 ```
 
-I am a SWE & R&D  at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
+I am a SWE & R&D (and aspired DE/MLE) at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
 
 My interests and expertise include Brain Connectivity (functional) & Graph Theory (methods, algos), Python, C++/Qt, Data Engineering, Machine Learning and Real-Time Data Analytics. Also I'm a Go aficionado!
 

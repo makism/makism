@@ -12,7 +12,7 @@ My interests and expertise include Brain Connectivity (functional) & Graph Theor
 
 Oh, that's also me:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>
-💬 [Linkedin](https://www.linkedin.com/in/makism/)<br/>
+💬 [LinkedIn](https://www.linkedin.com/in/makism/)<br/>
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>
 🔭 [OrcID](orcid.org/0000-0003-1551-9940)<br/>
 📓 [Lifelong learning](https://github.com/makism/lifelong-learning)

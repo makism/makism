@@ -18,3 +18,5 @@ Oh, that's also me:<br/>
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>
 🔭 [OrcID](orcid.org/0000-0003-1551-9940)<br/>
 📓 [Lifelong learning](https://github.com/makism/lifelong-learning)
+
+I you want a copy of my CV, drop me a line at avraam.marimpis@gmail.com ;)

@@ -8,7 +8,7 @@ Also, according to my wife, I'm addicted to MOOCS — but I just enjoy learning!
 
 I am a SWE & R&D (and data-curious) at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
 
-Expert in Python (3.8), C++/Qt, and aspired in DE/MLE and Real-Time Data Analytics. My research interests include Brain Connectivity (functional) & Graph Theory. Also, I'm a Go aficionado!
+Expert in Python, C++/Qt, and delving into DE/MLE and Real-Time Data Analytics. My research interests include Brain Connectivity (functional) & Graph Theory. Also, I'm a Golang aficionado, and I'm reminiscencing my Java skills!
 
 Oh, that's also me:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>

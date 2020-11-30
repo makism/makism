@@ -10,7 +10,7 @@ I am a SWE & R&D (and data-curious) at [Brain Innovation B.V.](https://www.brain
 
 Expert in Python, C++/Qt, and delving into DE/MLE and Real-Time Data Analytics. My research interests include Brain Connectivity (functional) & Graph Theory. Also, I'm a Golang aficionado, and I'm reminiscencing my Java skills!
 
-As a proponent of lifelong learning, it is As a proponent of lifelong learning, it is in my mindset to dedicate every day some time to study. The topics that I am interested in include methodologies to improve my code skills (APIs, testing, design patterns, etc.), ML/DL, Statistics, Java or Go, etc.in my mindset to everyday put some extra effort and time, to study topics that include ML/DL, Statistics, Java or Go, methodologies to improve my code skills (testing, design patterns, etc), etc.
+As a proponent of lifelong learning, it is in my mindset to dedicate every day some time to study. The topics that I am interested in include methodologies to improve my code skills (APIs, testing, design patterns, etc.), ML/DL, Statistics, Java or Go, etc.
 
 Oh, that's also me:<br/>
 ⚡ [neurobastard.io](https://neurobastard.io)<br/>

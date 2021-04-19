@@ -10,7 +10,7 @@
 I love mechanical keyboards, MOOCs and graph theory 🤷‍♂️
 ```
 
-I am a SWE & R&D (and data-curious) at [Brain Innovation B.V.](https://www.brainvoyager.com) in Maastricht, The Netherlands. At the same time I am pursuing my Ph.D. degree in the Cognitive Neuroscience Department, in Maastricht University.
+Currently, I am pursuing my Ph.D. degree in Cognitive Neuroscience, at Maastricht University.
 
 Expert in Python, C++/Qt, with affinity for DS/DE and Real-Time Data Analytics. My research interests include Brain Connectivity (functional) & Graph Theory and Machine Learning.
 

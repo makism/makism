@@ -4,21 +4,25 @@
 
 </p>
 
-### Hi there 👋, i'm Makis!
+### Hi there 👋, I'm Makis!
 
-```
-I love mechanical keyboards, MOOCs and graph theory 🤷‍♂️
-```
+Currently, I am pursuing my PhD degree in Cognitive Neuroscience at Maastricht University. I'm comfortably engaging in Brain Connectivity (functional) & Network Neuroscience, and Machine Learning.
 
-Currently, I am pursuing my Ph.D. degree in Cognitive Neuroscience, at Maastricht University.
+My professional skills and interests include<br />
+※ Python/C++<br />
+※ Graphs Theory<br />
+※ ML/DNN/DE<br />
 
-Expert in Python, C++/Qt, with affinity for DS/DE and Real-Time Data Analytics. My research interests include Brain Connectivity (functional) & Graph Theory and Machine Learning.
+Currently, I'm learning<br />
+※ Julia<br />
+※ Solidity
 
-As a proponent of lifelong learning, it is in my mindset to dedicate every day some time to obtain new knowledge. The topics that I am interested in include methodologies to improve my code skills (APIs, testing, design patterns, etc.), ML/DL, Statistics, Java or Go, etc.
-
-Oh, that's also me:<br/>
-⚡ [neurobastard.io](https://neurobastard.io)<br/>
-💬 [LinkedIn](https://www.linkedin.com/in/makism/)<br/>
-🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis)<br/>
-🔭 [OrcID](orcid.org/0000-0003-1551-9940)<br/>
+<div align="center">
+  
+⚡ [neurobastard.io](https://neurobastard.io) 
+💬 [LinkedIn](https://www.linkedin.com/in/makism/)
+🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis) 
+🔭 [OrcID](orcid.org/0000-0003-1551-9940) 
 📓 [Lifelong learning](https://github.com/makism/lifelong-learning)
+
+</div>

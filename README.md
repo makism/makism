@@ -10,7 +10,7 @@ Currently, I am pursuing my PhD degree in Cognitive Neuroscience at Maastricht U
 
 My professional skills and interests include<br />
 ※ Python/C++<br />
-※ Graphs Theory<br />
+※ Graph Theory<br />
 ※ ML/DNN/DE<br />
 
 Currently, I'm learning<br />

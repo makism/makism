@@ -6,7 +6,7 @@
 
 ### Hi there 👋, I'm Makis!
 
-Currently, I am pursuing my PhD degree in Cognitive Neuroscience at Maastricht University. I'm comfortably engaging in Brain Connectivity (functional) & Network Neuroscience, and Machine Learning.
+Currently, I am pursuing a PhD degree in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience, and Machine Learning.
 
 My professional skills and interests include<br />
 ※ Python/C++<br />

@@ -1,9 +1,3 @@
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/99727/111533845-894f7800-8767-11eb-9539-87a45ab75e10.png" />
-
-</p>
-
 ### Hi there 👋, I'm Makis!
 
 Currently, I am pursuing a PhD degree in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience, and Machine Learning.

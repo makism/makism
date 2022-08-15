@@ -8,9 +8,8 @@ My professional skills and interests include<br />
 ※ ML/DNN/DE<br />
 
 Currently, I'm learning<br />
-※ neo4j<br />
 ※ Julia<br />
-※ Solidity
+※ neo4j
 
 <div align="center">
   

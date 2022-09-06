@@ -17,7 +17,7 @@ Currently, I'm learning<br />
 💬 [LinkedIn](https://www.linkedin.com/in/makism/)
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis) 
 🔭 [OrcID](https://orcid.org/0000-0003-1551-9940) 
-📓 [Lifelong learning](https://github.com/makism/lifelong-learning)
-📄 [notion](https://www.notion.so/makism)
+🎓 [Lifelong learning](https://github.com/makism/lifelong-learning)
+📓 [notion](https://www.notion.so/makism)
 
 </div>

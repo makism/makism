@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99727/190627387-f4197eb7-565f-4adf-9fd1-8f67649ce839.png" alt="drawing" width="150" alt="create with Stability Diffusion"/>
+</div>
+
 ### Hi there 👋, I'm Makis!
 
 > If I were to name a favourite book, that would be Gibson's "Neuromancer"; hackers jacking into cyberspace by projecting their consciousness into a shared virtual space, a hidden layer augmenting the perceived reality. That was cyberpunk at its most refined form; brains interfacing with computers and enhanced cognitive capabilities. Now I am positioned to realize the blur between science fiction and reality. Ideas and notions that were previously thought to be science fiction are becoming a reality, and that is something that overwhelms me.
@@ -25,10 +29,4 @@ Currently, I'm learning<br />
 🎓 [Lifelong learning](https://github.com/makism/lifelong-learning)
 📓 [notion](https://www.notion.so/makism)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/99727/190627387-f4197eb7-565f-4adf-9fd1-8f67649ce839.png" alt="drawing" width="150" alt="create with Stability Diffusion"/>
 </div>

@@ -4,10 +4,6 @@
 
 > Quoting Gibson, "My problem is that all things are increasingly attractive to me, " describes my engagement with computer science and neuroscience, studying the brain's cognition under different tasks, mental loads and even neurodegenerative diseases. More specifically, I am interested in investigating the connectivity between brain regions and studying graph theoretical analyses to explain these established networks. My most recent academic and professional choices are pivoted around these topics.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/99727/190627387-f4197eb7-565f-4adf-9fd1-8f67649ce839.png" alt="drawing" width="150" alt="create with Stability Diffusion"/>
-</div>
-
 Academic background<br />
 ※ PhD Candicate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience
 
@@ -29,4 +25,10 @@ Currently, I'm learning<br />
 🎓 [Lifelong learning](https://github.com/makism/lifelong-learning)
 📓 [notion](https://www.notion.so/makism)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99727/190627387-f4197eb7-565f-4adf-9fd1-8f67649ce839.png" alt="drawing" width="150" alt="create with Stability Diffusion"/>
 </div>

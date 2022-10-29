@@ -13,8 +13,8 @@ Academic background<br />
 
 My professional skills and interests include<br />
 ※ Python/C++<br />
+※ DE/ML & DNN<br />
 ※ Graph Theory<br />
-※ ML/DNN/DE<br />
 
 Currently, I'm learning<br />
 ※ Julia<br />

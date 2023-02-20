@@ -17,10 +17,11 @@ My professional skills and interests include<br />
 ※ Graph Theory<br />
 
 Currently, I'm learning<br />
-※ scala for FP<br />
-※ Apaceh Flink<br />
-※ Julia<br />
-※ neo4j
+※ Scala for FP<br />
+※ Apache Flink<br />
+※ Apache Beam<br />
+※ neo4j<br />
+※ Julia
 
 <div align="center">
   

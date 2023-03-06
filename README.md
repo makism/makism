@@ -18,8 +18,7 @@ My professional skills and interests include<br />
 
 Currently, I'm learning<br />
 ※ Scala for FP<br />
-※ Apache Flink<br />
-※ Apache Beam<br />
+※ Apache Kafka, Flink & Beam for Data Streaming<br/>
 ※ neo4j<br />
 ※ Julia
 

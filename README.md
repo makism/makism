@@ -20,9 +20,9 @@
 ※ Julia
 
 ##### Academic background
-※ PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience
+🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience
 
-
+---
 
 <div align="center">
 

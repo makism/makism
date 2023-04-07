@@ -14,14 +14,14 @@
 
 ##### My professional skills and interests include
 🐍 Python (I moved on from C++ long time ago :P) <br />
-❄️ DE (AWS/Spark) and ML (kubeflow/Tensorflow)<br />
-🍄 Graph Theory
+🌊 DE (AWS/Spark) and ML (kubeflow/Tensorflow) <br />
+🎯 Graph Theory
 
 ##### Currently, I'm learning
-🎯 Scala for FP<br />
-🌊 Apache Kafka, Flink & Beam for Data Streaming<br/>
-✔️ neo4j<br />
-❤️ Julia
+❶ Scala for FP <br />
+❷ Apache Kafka, Flink & Beam for Data Streaming <br/>
+❸ neo4j <br />
+❹ Julia
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience

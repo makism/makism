@@ -8,6 +8,10 @@
 
 > Quoting Gibson, "My problem is that all things are increasingly attractive to me, " describes my engagement with computer science and neuroscience, studying the brain's cognition under different tasks, mental loads and even neurodegenerative diseases. More specifically, I am interested in investigating the connectivity between brain regions and studying graph theoretical analyses to explain these established networks. My most recent academic and professional choices are pivoted around these topics.
 
+##### What's up?
+
+> My current role is a combination of Data & Platform Engineering.
+
 ##### My professional skills and interests include
 🐍 Python (I moved on from C++ long time ago :P) <br />
 ❄️ DE (AWS/Spark) and ML (kubeflow/Tensorflow)<br />
@@ -26,7 +30,7 @@
 
 <div align="center">
 
-#### That's also me 🤓
+##### That's also me 🤓
   
 ⚡ [neurobastard.io](https://neurobastard.io) 
 💬 [LinkedIn](https://www.linkedin.com/in/makism/)

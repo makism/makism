@@ -10,8 +10,7 @@
 > My unique interest and enthusiasm for Data Engineering (and ML as an afterthought) came organic from my previous professional experiences in SWE and my PhD research. Specifically, I tackled challenges related to analyzing big data in the latter one (Apache Spark enters the chat).
 
 ##### What's up?
-
-> My current role is a combination of Data & Platform Engineering.
+👨‍💻 My current role is a combination of Data & Platform Engineering.
 
 ##### My professional skills and interests include
 🐍 Python (I moved on from C++ long time ago :P) <br />
@@ -21,8 +20,8 @@
 ##### Currently, I'm learning
 🎯 Scala for FP<br />
 🌊 Apache Kafka, Flink & Beam for Data Streaming<br/>
-※ neo4j<br />
-※ Julia
+✔️ neo4j<br />
+❤️ Julia
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience

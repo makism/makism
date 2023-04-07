@@ -10,7 +10,7 @@
 
 My professional skills and interests include<br />
 🐍 Python/C++<br />
-※ DE/ML<br />
+※ DE (Spark) and ML (Tensorflow)<br />
 ※ Graph Theory<br />
 
 Currently, I'm learning<br />

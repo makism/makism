@@ -6,7 +6,8 @@
 
 > If I were to name a favourite book, that would be Gibson's "Neuromancer"; hackers jacking into cyberspace by projecting their consciousness into a shared virtual space, a hidden layer augmenting the perceived reality. That was cyberpunk at its most refined form; brains interfacing with computers and enhanced cognitive capabilities. Now I am positioned to realize the blur between science fiction and reality. Ideas and notions that were previously thought to be science fiction are becoming a reality, and that is something that overwhelms me.
 
-> Quoting Gibson, "My problem is that all things are increasingly attractive to me, " describes my engagement with computer science and neuroscience, studying the brain's cognition under different tasks, mental loads and even neurodegenerative diseases. More specifically, I am interested in investigating the connectivity between brain regions and studying graph theoretical analyses to explain these established networks. My most recent academic and professional choices are pivoted around these topics.
+> Quoting Gibson, "My problem is that all things are increasingly attractive to me". <br/>
+> My unique interest and enthusiasm for Data Engineering (and ML as an afterthought) came organic from my previous professional experiences in SWE and my PhD research. Specifically, I tackled challenges related to analyzing big data in the latter one (Apache Spark enters the chat).
 
 ##### What's up?
 

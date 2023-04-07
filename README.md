@@ -8,23 +8,21 @@
 
 > Quoting Gibson, "My problem is that all things are increasingly attractive to me, " describes my engagement with computer science and neuroscience, studying the brain's cognition under different tasks, mental loads and even neurodegenerative diseases. More specifically, I am interested in investigating the connectivity between brain regions and studying graph theoretical analyses to explain these established networks. My most recent academic and professional choices are pivoted around these topics.
 
-My professional skills and interests include<br />
-🐍 Python/C++<br />
+#### My professional skills and interests include
+🐍 Python (I moved on from C++ long time ago :P) <br />
 ❄️ DE (Spark) and ML (Tensorflow)<br />
-🍄 Graph Theory<br />
+🍄 Graph Theory
 
-Currently, I'm learning<br />
+#### Currently, I'm learning
 🎯 Scala for FP<br />
 🌊 Apache Kafka, Flink & Beam for Data Streaming<br/>
 ※ neo4j<br />
-※ Julia<br/>
+※ Julia
 
-Academic background<br />
+#### Academic background
 ※ PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience
 
-<br />
-
-## That's also me 🤓
+#### That's also me 🤓
 <div align="center">
   
 ⚡ [neurobastard.io](https://neurobastard.io) 

@@ -20,10 +20,10 @@
 🎯 Graph Theory
 
 ##### Currently, I'm learning
-① Scala for FP <br />
+① Scala 3 for FP <br />
 ② Apache Kafka, Flink & Beam for Data Streaming <br/>
 ③ neo4j <br />
-④ Julia
+④ Julia or Rust? drop me a message with your opinion 🤓
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience

@@ -13,9 +13,9 @@
 👨‍💻 My current role is a combination of Data & Platform Engineering. <br />
 🌍 Interested in green/energy tech and sustainability.
 
-
 ##### My professional skills and interests include
-🐍 Python (I moved on from C++ long time ago :P) <br />
+🐍 Python <br />
+❌ C++/Qt (not anymore) <br />
 🌊 DE (AWS/Spark) and ML (kubeflow/Tensorflow) <br />
 🎯 Graph Theory
 

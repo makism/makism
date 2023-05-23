@@ -16,7 +16,7 @@
 ##### My professional skills and interests include
 🐍 Python <br />
 ❌ C++/Qt (not anymore) <br />
-🌊 DE (AWS/Spark) and ML (kubeflow/Tensorflow) <br />
+🌊 DE (AWS/Spark/SQL) and ML (kubeflow/Tensorflow) <br />
 🎯 Graph Theory
 
 ##### Currently, I'm learning

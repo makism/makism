@@ -15,10 +15,10 @@
 
 ##### My professional skills and interests include
 🐍 Python <br />
+❌ C++/Qt — not anymore <br />
 🌊 DE — Azure/AWS and Databricks/Spark/SQL <br />
 🤖 DPE — k8s/kubeflow and Tensorflow <br />
-🎯 Graph Theory <br />
-❌ C++/Qt (not anymore)
+🎯 Graph Theory
 
 ##### Currently, I'm learning
 ① Scala 3 for FP <br />

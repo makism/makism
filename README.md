@@ -10,20 +10,21 @@
 > My unique interest and enthusiasm for Data Engineering (and ML as an afterthought) came organic from my previous professional experiences in SWE and my PhD research. Specifically, I tackled challenges related to analyzing big data in the latter one (Apache Spark enters the chat).
 
 ##### What's up?
-👨‍💻 My current role is a combination of Data & Platform Engineering. <br />
+👨‍💻 My current role is a combination of Data (DE) & Platform Engineering (DPE). <br />
 🌍 Interested in green/energy tech and sustainability.
 
 ##### My professional skills and interests include
 🐍 Python <br />
 ❌ C++/Qt (not anymore) <br />
-🌊 DE (AWS/Spark/SQL) and ML (kubeflow/Tensorflow) <br />
+🌊 DE — Azure/AWS and Databricks/Spark/SQL <br />
+🤖 DPE — k8s/kubeflow and Tensorflow <br />
 🎯 Graph Theory
 
 ##### Currently, I'm learning
 ① Scala 3 for FP <br />
 ② Apache Kafka, Flink & Beam for Data Streaming <br/>
 ③ neo4j <br />
-④ Julia or Rust? drop me a message with your opinion 🤓
+④ Julia / Rust 🤓
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience

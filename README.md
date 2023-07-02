@@ -10,7 +10,7 @@
 > My unique interest and enthusiasm for Data Engineering (and ML as an afterthought) came organic from my previous professional experiences in SWE and my PhD research. Specifically, I tackled challenges related to analyzing big data in the latter one (Apache Spark enters the chat).
 
 ##### What's up?
-👨‍💻 My current role is a combination of Data (DE) & Platform Engineering (DPE). <br />
+👨‍💻 My current role is a combination of Data (*DE*) & Platform Engineering (*DPE*). <br />
 🌍 Interested in green/energy tech and sustainability.
 
 ##### My professional skills and interests include

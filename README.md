@@ -23,7 +23,7 @@
 ##### Currently, I'm learning
 ① Scala3 for FP <br />
 ② Apache Kafka, Apache Flink & Apache Beam for Data Streaming <br/>
-③ neo4j 
+③ neo4j / Cypher
 
 ##### I'm messing around with
 🦀 Rust <br />

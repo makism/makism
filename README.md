@@ -25,11 +25,10 @@
 ② Apache Kafka, Apache Flink & Apache Beam for Data Streaming <br/>
 ③ neo4j / Cypher
 
-##### I'm messing around with
+##### ... and messing around with
 🦀 Rust <br />
 🔥 Mojo <br />
 🧊 Apache Iceberg and Apace SeaTunnel
-
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience

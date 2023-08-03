@@ -4,21 +4,21 @@
 
 ## Hey there 👋, I'm Makis!
 
-> If I were to name a favourite book, that would be Gibson's "Neuromancer"; hackers jacking into cyberspace by projecting their consciousness into a shared virtual space, a hidden layer augmenting the perceived reality. That was cyberpunk at its most refined form; brains interfacing with computers and enhanced cognitive capabilities. Now I am positioned to realize the blur between science fiction and reality. Ideas and notions that were previously thought to be science fiction are becoming a reality, and that is something that overwhelms me.
+> If I were to name a favorite book, that would be Gibson's "Neuromancer"; hackers jacking into cyberspace by projecting their consciousness into a shared virtual space, a hidden layer augmenting the perceived reality. That was cyberpunk at its most refined form; brains interfacing with computers and enhanced cognitive capabilities. Now I am positioned to realize the blur between science fiction and reality. Ideas and notions that were previously thought to be science fiction are becoming a reality, and that is something that overwhelms me.
 
 > Quoting Gibson, "My problem is that all things are increasingly attractive to me". <br/>
 > My unique interest and enthusiasm for Data Engineering (and ML as an afterthought) came organic from my previous professional experiences in SWE and my PhD research. Specifically, I tackled challenges related to analyzing big data in the latter one (Apache Spark enters the chat).
 
 ##### What's up?
-👨‍💻 My current role is a combination of Data (*DE*) & Platform Engineering (*DPE*). <br />
+👨‍💻 My current role is that of Senior Big Data Engineer (*DE*). <br />
 🌍 Interested in green/energy tech and sustainability.
 
 ##### My professional skills and interests include
 🐍 Python <br />
-❌ C++/Qt — not anymore <br />
 🌊 DE — Azure/AWS and Databricks/Spark/SQL <br />
-🤖 DPE — k8s/kubeflow and Tensorflow <br />
-🎯 Graph Theory
+🤖 MLE — k8s/kubeflow and Tensorflow <br />
+🎯 Graph Theory <br />
+❌ C++/Qt — not anymore
 
 ##### Currently, I'm learning
 ① Scala3 for FP <br />

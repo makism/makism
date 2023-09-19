@@ -26,8 +26,6 @@
 ③ neo4j / Cypher
 
 ##### ... and messing around with
-🦀 Rust <br />
-🔥 Mojo <br />
 🧊 Apache Iceberg and Apace SeaTunnel
 
 ##### Academic background

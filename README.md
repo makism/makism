@@ -13,6 +13,7 @@
 👨‍💻 My current role is that of Senior Big Data Engineer (*DE*). <br />
 🌍 Interested in green/energy tech and sustainability.
 
+
 ##### My professional skills and interests include
 🐍 Python <br />
 🌊 DE — Azure/AWS and Databricks/Spark/SQL <br />
@@ -20,13 +21,16 @@
 🎯 Graph Theory <br />
 ❌ C++/Qt — not anymore
 
+
 ##### Currently, I'm learning
 ① Scala3 for FP <br />
 ② Apache Kafka, Apache Flink & Apache Beam for Data Streaming <br/>
 ③ neo4j / Cypher
 
+
 ##### ... and messing around with
 🧊 Apache Iceberg and Apace SeaTunnel
+
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.

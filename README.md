@@ -29,7 +29,9 @@
 🧊 Apache Iceberg and Apace SeaTunnel
 
 ##### Academic background
-🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience
+🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.
+> In the past, I did start a PhD in Cognitive Neuroscience (after 4+ years, countless hours of researching and publishing) just for fun and hobby. In the future, I plan to study astrophysics.
+
 
 ---
 

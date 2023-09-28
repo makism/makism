@@ -30,8 +30,7 @@
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.
-> In the past, I did start a PhD in Cognitive Neuroscience (after 4+ years, countless hours of researching and publishing) just for fun and hobby. In the future, I plan to study astrophysics.
-
+> 💁 I did pursue a PhD in Cognitive Neuroscience (after 4+ years, countless hours of researching and publishing) just for fun and a hobby. I reached all the requirements to defend it but just I decided that I was not really interested in it anymore. In the future, I plan to study astrophysics.
 
 ---
 

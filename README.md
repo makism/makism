@@ -30,6 +30,7 @@
 
 ##### ... and messing around with
 🧊 Apache Iceberg and Apace SeaTunnel
+🦀 Rust
 
 
 ##### Academic background

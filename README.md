@@ -29,7 +29,7 @@
 
 
 ##### ... and messing around with
-🧊 Apache Iceberg and Apace SeaTunnel
+🧊 Apache Iceberg and Apace SeaTunnel <br/>
 🦀 Rust
 
 

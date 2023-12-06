@@ -16,21 +16,17 @@
 
 ##### My professional skills and interests include
 🐍 Python <br />
-🌊 DE — Azure/AWS and Databricks/Spark/SQL <br />
+🚀 Scala <br />
+🌊 DE — Azure/AWS and Databricks/Spark/SQL (batch & stream) <br />
 🤖 MLE — k8s/kubeflow and Tensorflow <br />
 🎯 Graph Theory <br />
 ❌ C++/Qt — not anymore
 
 
-##### Currently, I'm learning
-① Scala3 for FP <br />
-② Apache Kafka, Apache Flink & Apache Beam for Data Streaming <br/>
-③ neo4j / Cypher
-
-
 ##### ... and messing around with
-🧊 Apache Iceberg and Apace SeaTunnel <br/>
-🦀 Rust
+🧊 Apache Flink and Apache Iceberg <br />
+🦀 Rust <br />
+🕸️ neo4j / Cypher
 
 
 ##### Academic background

@@ -24,9 +24,9 @@
 
 
 ##### ... and messing around with
-🧊 Apache Flink and Apache Iceberg <br />
-🦀 Rust <br />
-🕸️ neo4j / Cypher
+🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc.<br />
+🦀 Languages such as Rust and Go.<br />
+🕸️ Graph databases like neo4j.<br />
 
 
 ##### Academic background

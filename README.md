@@ -24,9 +24,10 @@
 
 
 ##### ... and messing around with
-🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc.<br />
-🦀 Languages such as Rust and Go.<br />
-🕸️ Graph databases like neo4j.<br />
+🎓 In-depth theoretical topics on DE<br />
+🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc<br />
+🦀 Rust, Go, Mojo<br />
+🕸️ Graph databases like neo4j<br />
 
 
 ##### Academic background

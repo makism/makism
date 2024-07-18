@@ -45,6 +45,6 @@
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis) <br/>
 🔭 [OrcID](https://orcid.org/0000-0003-1551-9940) 
 🎓 [Lifelong learning](https://github.com/makism/lifelong-learning)
-📓 [notion](https://www.notion.so/makism)
+📓 [notion](https://www.notion.so/makism/index-html-ab0ec8a04b4841d48443a1b60bd40b02)
 
 </div>

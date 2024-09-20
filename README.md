@@ -32,7 +32,15 @@
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.
-> 💁 I did pursue a PhD in Cognitive Neuroscience (after 4+ years, countless hours of researching and publishing) just for fun and a hobby. I reached all the requirements to defend it but just I decided that I was not really interested in it anymore.
+> 💁 I did pursue a PhD in Cognitive Neuroscience (after 4+ years, countless hours of researching and publishing) just for fun and a hobby. I reached all the requirements to defend it but just I decided that I was not interested in it anymore.
+
+
+##### Recently I wrote...
+
+📓 [Salting in Apache Spark](https://www.notion.so/makism/Salting-in-Apache-Spark-f5470f4789c04197bb9c2ec8850e7f63) <br/>
+📓 [Getting Started with the spark-operator on minikube](https://www.notion.so/makism/Getting-Started-with-the-spark-operator-on-minikube-ed49462128704f6aa25d021c74f8f4ae) <br/>
+📓 [⩵ Planning on Apache Spark ⩵](https://www.notion.so/makism/Planning-on-Apache-Spark-96466680b1544a158e9fcec0f5e63d87) <br/>
+📓 [kubeflow on minikube — quick setup](https://www.notion.so/makism/kubeflow-on-minikube-quick-setup-7390a0bf48d04f64ac83a75368f31bff)
 
 ---
 

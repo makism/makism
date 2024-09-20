@@ -21,12 +21,6 @@
 🎯 Graph Theory <br />
 ❌ C++/Qt — not anymore
 
-##### ... and messing around with
-🎓 In-depth theoretical topics on DE<br />
-🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc<br />
-🦀 Rust, Go, Mojo<br />
-🕸️ Graph databases like neo4j<br />
-
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.
 > 💁 drop out
@@ -37,6 +31,12 @@
 📓 [Getting Started with the spark-operator on minikube](https://www.notion.so/makism/Getting-Started-with-the-spark-operator-on-minikube-ed49462128704f6aa25d021c74f8f4ae) <br/>
 📓 [⩵ Planning on Apache Spark ⩵](https://www.notion.so/makism/Planning-on-Apache-Spark-96466680b1544a158e9fcec0f5e63d87) <br/>
 📓 [kubeflow on minikube — quick setup](https://www.notion.so/makism/kubeflow-on-minikube-quick-setup-7390a0bf48d04f64ac83a75368f31bff)
+
+##### Messing around with
+🎓 In-depth theoretical topics on DE<br />
+🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc<br />
+🦀 Rust, Go, Mojo<br />
+🕸️ Graph databases like neo4j<br />
 
 ---
 

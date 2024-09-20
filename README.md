@@ -13,7 +13,6 @@
 👨‍💻 My current role is that of Senior Big Data Engineer (*DE*). <br />
 🌍 Interested in green/energy tech and sustainability.
 
-
 ##### My professional skills and interests include
 🐍 Python <br />
 🚀 Scala <br />
@@ -32,10 +31,9 @@
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.
-> 💁 I did pursue a PhD in Cognitive Neuroscience (after 4+ years, countless hours of researching and publishing) just for fun and a hobby. I reached all the requirements to defend it but just I decided that I was not interested in it anymore.
+> 💁 drop out
 
-
-##### Recently I wrote...
+##### Recently I wrote and discussed...
 
 📓 [Salting in Apache Spark](https://www.notion.so/makism/Salting-in-Apache-Spark-f5470f4789c04197bb9c2ec8850e7f63) <br/>
 📓 [Getting Started with the spark-operator on minikube](https://www.notion.so/makism/Getting-Started-with-the-spark-operator-on-minikube-ed49462128704f6aa25d021c74f8f4ae) <br/>
@@ -48,7 +46,7 @@
 
 ##### That's also me 🤓
   
-⚡ [neurobastard.io](https://neurobastard.io) 
+⚡ [func.so](https://func.so) 
 💬 [LinkedIn](https://www.linkedin.com/in/makism/)
 🌱 [ResearchGate](https://researchgate.net/profile/Avraam_Marimpis) <br/>
 🔭 [OrcID](https://orcid.org/0000-0003-1551-9940) 

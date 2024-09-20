@@ -13,26 +13,19 @@
 👨‍💻 My current role is that of Senior Big Data Engineer (*DE*). <br />
 🌍 Interested in green/energy tech and sustainability.
 
-<div style="padding: 20px;">
-  <div style="width: 50%; float: left; padding: 10px;">
-    <h5>My professional skills and interests include</h5>
-    🐍 Python <br />
-    🚀 Scala <br />
-    🌊 DE — Azure/AWS and Databricks/Spark/SQL (batch & stream) <br />
-    🤖 MLE — k8s/kubeflow and Tensorflow <br />
-    🎯 Graph Theory <br />
-    ❌ C++/Qt — not anymore
-  </div>
+##### My professional skills and interests include
+🐍 Python <br />
+🚀 Scala <br />
+🌊 DE — Azure/AWS and Databricks/Spark/SQL (batch & stream) <br />
+🤖 MLE — k8s/kubeflow and Tensorflow <br />
+🎯 Graph Theory <br />
+❌ C++/Qt — not anymore
 
-  <div style="width: 50%; float: left; padding: 10px;">
-    <h5>... and messing around with</h5>
-    🎓 In-depth theoretical topics on DE<br />
-    🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc<br />
-    🦀 Rust, Go, Mojo<br />
-    🕸️ Graph databases like neo4j<br />
-  </div>
-</div>
-
+##### ... and messing around with
+🎓 In-depth theoretical topics on DE<br />
+🧊 Engineering tools; Flink, Iceberg, Nessie, Datahub, etc<br />
+🦀 Rust, Go, Mojo<br />
+🕸️ Graph databases like neo4j<br />
 
 ##### Academic background
 🧠 PhD Candidate in Cognitive Neuroscience at Maastricht University; focused on Brain Connectivity (functional) & Network Neuroscience.

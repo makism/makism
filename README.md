@@ -32,10 +32,10 @@
 🕸️ Graph databases like neo4j<br />
 
 ##### Recently I wrote and discussed...
-✨ [Salting in Apache Spark](https://www.notion.so/makism/Salting-in-Apache-Spark-f5470f4789c04197bb9c2ec8850e7f63) <br/>
-📄 [Getting Started with the spark-operator on minikube](https://www.notion.so/makism/Getting-Started-with-the-spark-operator-on-minikube-ed49462128704f6aa25d021c74f8f4ae) <br/>
+🧂 [Salting in Apache Spark](https://www.notion.so/makism/Salting-in-Apache-Spark-f5470f4789c04197bb9c2ec8850e7f63) <br/>
+🤖 [Getting Started with the spark-operator on minikube](https://www.notion.so/makism/Getting-Started-with-the-spark-operator-on-minikube-ed49462128704f6aa25d021c74f8f4ae) <br/>
 ✨ [⩵ Planning on Apache Spark ⩵](https://www.notion.so/makism/Planning-on-Apache-Spark-96466680b1544a158e9fcec0f5e63d87) <br/>
-📄 [kubeflow on minikube — quick setup](https://www.notion.so/makism/kubeflow-on-minikube-quick-setup-7390a0bf48d04f64ac83a75368f31bff)
+⎈ [kubeflow on minikube — quick setup](https://www.notion.so/makism/kubeflow-on-minikube-quick-setup-7390a0bf48d04f64ac83a75368f31bff)
 
 ---
 

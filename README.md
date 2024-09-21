@@ -1,6 +1,10 @@
+<!--
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99727/190627387-f4197eb7-565f-4adf-9fd1-8f67649ce839.png" alt="drawing" width="150" alt="create with Stability Diffusion"/>
 </div>
+-->
+
+![1697746681601](https://github.com/user-attachments/assets/805286d7-0c21-439f-acc5-dbf3cad166d8)
 
 ## Hey there 👋, I'm Makis!
 

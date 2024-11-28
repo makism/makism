@@ -36,6 +36,7 @@
 🕸️ Graph databases like neo4j<br />
 
 ##### Recently I wrote and discussed...
+☸️ [Briefly on Streaming and Deployment](https://makism.notion.site/Briefly-on-Streaming-and-Deployment-2e3bce9d20ba4c4cae81c32aa3d6b140?pvs=74)
 ☄️ [Apache DataFusion + Comet](https://makism.notion.site/Apache-DataFusion-Comet-13315bfb0437800c9ac9f9f7ca6baf6f?pvs=73)<br />
 ♻️ [Delta + Deletion Vectors](https://makism.notion.site/Delta-Deletion-Vectors-74c3d87edfbd48aa893521fa11bb2a1e?pvs=73)<br />
 🧂 [Salting in Apache Spark](https://www.notion.so/makism/Salting-in-Apache-Spark-f5470f4789c04197bb9c2ec8850e7f63) <br/>

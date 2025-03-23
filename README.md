@@ -36,7 +36,7 @@
 🕸️ Graph databases like neo4j<br />
 
 ##### Recently I wrote and discussed...
-
+🌀 [A data processing pipeline in Rust; PoC.](https://makism.notion.site/A-data-processing-pipeline-in-Rust-PoC-16015bfb043780fc8993ebebf8798ed6) <br />
 🔐 [Unity Catalog with Keycloak](https://makism.notion.site/Unity-Catalog-with-Keycloak-b791c4abf87f49cbb5c4c3d66f1f719f0) <br />
 ☸️ [Briefly on Streaming and Deployment](https://makism.notion.site/Briefly-on-Streaming-and-Deployment-2e3bce9d20ba4c4cae81c32aa3d6b140?pvs=74) <br />
 ☄️ [Apache DataFusion + Comet](https://makism.notion.site/Apache-DataFusion-Comet-13315bfb0437800c9ac9f9f7ca6baf6f?pvs=73)<br />
@@ -51,7 +51,6 @@
 <div align="center">
 
 ##### That's also me 🤓
-  
 ⚡ [func.so](https://func.so) 
 💬 [LinkedIn](https://www.linkedin.com/in/makism/)
 🐙 [Zinc](https://app.zincwork.com/user/makism) <br/>
